@@ -17,7 +17,7 @@ nicely.
 3. The program must not use global variables. In another words, it must use local variables
 and pass-by-value or pass-by-reference parameters.
 4. The program must define the maximum number of entries such as 100 and keeps track of the
-actual count of the current number of expenses entered by the user. You’re not allowed to use vectors.
+actual count of the current number of expenses entered by the user. Youï¿½re not allowed to use vectors.
 5. You should not use data file to save or read from. All operations should be done through
 the use of arrays and array indices.
 6. You must write at least 2 functions to get the minimum design score. The more functions
@@ -27,7 +27,7 @@ The program MUST perform the following checks:
 1. Check for invalid amount (negative or 0 number)
 2. Description cannot be empty.
 3. Search is case-insensitive (ignore case, but the user may type in any case).
-**********************************************************************/
+*********************************************************************/
 
 
 
